@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+firecrawl-py
+google-genai
+python-dotenv
+pydantic
+groq
